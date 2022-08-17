@@ -9,7 +9,7 @@ programa
 	funcao inicio()
 	{
 	
-	inteiro cupons, pontos
+	inteiro cupons
 
 		
 		escreva("Digite a quantidade de cupons que você possui: ")
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 294; 
+ * @POSICAO-CURSOR = 338; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
